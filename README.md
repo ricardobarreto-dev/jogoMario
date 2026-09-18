@@ -41,12 +41,10 @@ Como o front-end é estático, você pode executá-lo diretamente abrindo o arqu
 
 ## Integrantes
 
-| Nome | Matrícula | Papel |
-| :--- | :--- | :--- |
-| Ricardo Henrique Souza Barreto | 01890680 | Scrum Master |
-| Flávia Regina de Souza Felix Carvalho | 01907571 | Documentador |
-| Brenda Naiane Feliciano da Silva | 01893266 | Documentador |
-| Cauã Henrique Queiroz de Melo | 01900979 | Desenvolvedor |
-| Thiago Arthur da Silva Brito | 01901179 | Desenvolvedor |
-| Raphael Pacheco Serafim Júnior | 01887686 | Testador |
-| João Cirilo Albuquerque | 01889977 | Testador |
+* **Ricardo Henrique Souza Barreto** - Matrícula: 01890680 - Papel: Scrum Master
+* **Flávia Regina de Souza Felix Carvalho** - Matrícula: 01907571 - Papel: Documentador
+* **Brenda Naiane Feliciano da Silva** - Matrícula: 01893266 - Papel: Documentador
+* **Cauã Henrique Queiroz de Melo** - Matrícula: 01900979 - Papel: Desenvolvedor
+* **Thiago Arthur da Silva Brito** - Matrícula: 01901179 - Papel: Desenvolvedor
+* **Raphael Pacheco Serafim Júnior** - Matrícula: 01887686 - Papel: Testador
+* **João Cirilo Albuquerque** - Matrícula: 01889977 - Papel: Testador
