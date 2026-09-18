@@ -48,3 +48,4 @@ Como o front-end é estático, você pode executá-lo diretamente abrindo o arqu
 * **Thiago Arthur da Silva Brito** - Matrícula: 01901179 - Papel: Desenvolvedor
 * **Raphael Pacheco Serafim Júnior** - Matrícula: 01887686 - Papel: Testador
 * **João Cirilo Albuquerque** - Matrícula: 01889977 - Papel: Testador
+* **Rony Gabriel Santos Albuquerque Da Silva** - Matrícula: 01932257 - Papel: Testador
