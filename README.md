@@ -14,7 +14,7 @@ O objetivo deste projeto é aplicar boas práticas de versionamento de software 
 ## Instalação
 Clone o repositório em sua máquina:
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone (https://github.com/ricardobarreto-dev/jogoMario.git)
 cd jogoMario
 ```
 
@@ -42,7 +42,6 @@ Como o front-end é estático, você pode executá-lo diretamente abrindo o arqu
 ## Integrantes
 
 | Nome | Matrícula | Papel |
-| :--- | :--- | :--- |
 | Ricardo Henrique Souza Barreto | 01890680 | Scrum Master |
 | Flávia Regina de Souza Felix Carvalho | 01907571 | Documentador |
 | Brenda Naiane Feliciano da Silva | 01893266 | Documentador |
