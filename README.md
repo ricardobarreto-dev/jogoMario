@@ -14,7 +14,7 @@ O objetivo deste projeto é aplicar boas práticas de versionamento de software 
 ## Instalação
 Clone o repositório em sua máquina:
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/ricardobarreto-dev/jogoMario.git
 cd jogoMario
 ```
 
